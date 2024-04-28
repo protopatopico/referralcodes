@@ -61,6 +61,12 @@ const deals = [
         url:'honey'
     },
     {
+      name: 'Humble Bundle',
+      description: 'Become a member with Humble Choice which offers huge discounts on great bundles of PC games',
+      icon: 'humblebundle.webp',
+      url:'humblebundle'
+    },
+    {
         name: 'DMarket',
         description: 'Virtual In-Game Items Marketplace for CSGO, Rust, Dota, TF2',
         icon: 'dmarket.webp',
