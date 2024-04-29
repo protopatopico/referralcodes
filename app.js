@@ -67,6 +67,48 @@ const deals = [
       url:'humblebundle'
     },
     {
+      name: 'CSGORoll',
+      description: '3 free boxes, and 5% Deposit Bonus when using code: EZCSGOCASES',
+      icon: 'csgoroll.webp',
+      url:'csgoroll'
+    },
+    {
+      name: 'Key-Drop',
+      description: 'Use code: VRY8DXYC and get a free $0.50 + 10% bonus and win free CS2 skins',
+      icon: 'keydrop.webp',
+      url:'keydrop'
+    },
+    {
+      name: 'CSGOLuck',
+      description: 'Deposit match bonus up to 100 coins and free CS2 cases everyday. Use code: EZCSGOSKINS',
+      icon: 'csgoluck.webp',
+      url:'csgoluck'
+    },
+    {
+      name: 'CSGOFast',
+      description: 'Use code: EZCSGOSKINS for a free CS2 skin and +10% into the balance',
+      icon: 'csgofast.webp',
+      url:'csgofast'
+    },
+    {
+      name: 'Farmskins',
+      description: 'Get $0.90 added to your balance using promo code: EZCSSKINS',
+      icon: 'farmskins.webp',
+      url:'farmskins'
+    },
+    {
+      name: 'DaddySkins',
+      description: 'Use promo code: EZCSGOSKINS for +5% deposit bonus',
+      icon: 'daddyskins.webp',
+      url:'daddyskins'
+    },
+    {
+      name: 'bandit.camp',
+      description: 'Get a free $0.15 sign up bonus and +5% deposit bonus using code: freerustscrap',
+      icon: 'banditcamp.webp',
+      url:'banditcamp'
+    },
+    {
         name: 'DMarket',
         description: 'Virtual In-Game Items Marketplace for CSGO, Rust, Dota, TF2',
         icon: 'dmarket.webp',
